@@ -10,8 +10,8 @@
 
 ### 特别说明 ###
 * 汉化字典来自 https://github.com/gorden5566/padavan
+* 替换了user/trojan/trojan文件，文件源于Mi_3C的Padavan固件
 
-***
 
 ### 固件特点 ###
 - 使用[gorden5566](https://github.com/gorden5566/padavan)的汉化字典

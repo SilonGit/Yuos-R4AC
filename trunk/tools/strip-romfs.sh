@@ -51,6 +51,3 @@ fi
 fi
 sync
 echo ------------------------------LIB STRIP AND COPY OK---------------------------
-echo --------------Custom add start / file strip-romfs from trunk------------------
-cp /opt/tr-n56u/trunk/user/trojan/trojan /usr/bin/
-echo -----------------------------------End----------------------------------------
